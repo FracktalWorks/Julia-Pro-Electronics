@@ -13036,7 +13036,6 @@ Grid 5.00 mm&lt;p&gt;
 <part name="X9" library="Rembrandt Electronics - JST XH Connectors v1-0" deviceset="JST-XH-03-PIN" device="-LONG-PAD" value="M_DET"/>
 <part name="J13" library="SparkFun-Connectors" deviceset="CONN_03" device="" value="M_DET"/>
 <part name="X10" library="Rembrandt Electronics - JST XH Connectors v1-0" deviceset="JST-XH-03-PIN" device="-LONG-PAD" value="AUTO BED LEVEL - RP2040"/>
-<part name="U$3" library="FracktalWorks_Eagle_Library" deviceset="MAKEININDIA" device=""/>
 <part name="X12" library="Rembrandt Electronics - JST XH Connectors v1-0" deviceset="JST-XH-02-PIN" device="-LONG-PAD" value="Y_LIM"/>
 <part name="K3" library="FracktalWorks_Eagle_Library" deviceset="FFC/FPC/34PIN/1MMPITCH/TOPLOCK" device=""/>
 <part name="TP1" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5"/>
@@ -13170,7 +13169,6 @@ Grid 5.00 mm&lt;p&gt;
 <instance part="X10" gate="-3" x="243.84" y="190.5" smashed="yes">
 <attribute name="NAME" x="246.38" y="189.738" size="1.524" layer="95"/>
 </instance>
-<instance part="U$3" gate="G$1" x="281.94" y="223.52" smashed="yes"/>
 <instance part="X12" gate="-2" x="240.03" y="71.12" smashed="yes">
 <attribute name="NAME" x="242.57" y="70.358" size="1.524" layer="95"/>
 </instance>
